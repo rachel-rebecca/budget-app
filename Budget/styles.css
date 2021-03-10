@@ -1,0 +1,55 @@
+body {
+    background-color: rgba(170, 228, 218, 0.781);
+    font-family: monospace;
+}
+
+main {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 5px;
+    color:rgb(57, 115, 163);
+    text-shadow: 1px 1px 2px rgb(247, 147, 163);
+}
+
+input {
+    display: block;
+    margin: 6px auto;
+    width: 250px;
+    height: 40px;
+    font-family: monospace;
+    font-size: 1.25em;
+    border-radius: 10px;
+    border: 2px solid mediumpurple;
+}
+
+button {
+    font-family: monospace;
+    font-size: 1.25em;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: mediumpurple;
+    color: moccasin;
+}
+
+button:hover {
+    background-color: moccasin;
+    color: mediumpurple;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
